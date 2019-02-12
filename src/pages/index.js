@@ -62,7 +62,7 @@ const IndexPage = ({
         </Link>
       </Hero>
       <Content>
-        <SectionTitle>Latest stories</SectionTitle>
+        <SectionTitle>Neueste Artikel</SectionTitle>
         {postEdges.map(post => (
           <Article
             title={post.node.frontmatter.title}
