@@ -64,3 +64,5 @@ npm run build
 Copy the content of the `public` folder to your webhost or use a website like Netlify which automates that for you.
 
 **Attention:** You also need to edit `static/robots.txt` to include your domain!
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8fef9d89-a990-40bc-a937-2ba28769f61c/deploy-status)](https://app.netlify.com/sites/selen200/deploys)
